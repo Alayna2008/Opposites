@@ -1,0 +1,20 @@
+#div{
+    border: groove 10px crimson;
+    width: auto;
+}
+#div2{
+    border: groove 10px orange;
+    width: auto;
+}
+#div3{
+    border: groove 10px yellow;
+    width: auto; 
+}
+#div4{
+    border: groove 10px green;
+    width: auto;
+}
+#div5{
+    border: groove 10px blue;
+    width: auto;
+}
